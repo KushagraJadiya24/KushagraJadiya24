@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KushagraJadiya
-- 👀 I’m interested in Stocks, Web Development, Game Development
+- 👀 I’m interested in Web Development, Game Development, Music Making
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on AI/ML Projects
   

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushagraJadiya
-- 👀 I’m interested in Web Development and would love to dive into Game Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in Web Development
+- 🌱 I've worked with MERN Stack and Springboot
 - 💞️ I’m looking to collaborate on Projects
   
 

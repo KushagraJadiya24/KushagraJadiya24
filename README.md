@@ -7,6 +7,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+##
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kushstrums/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-jadiya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kushagrajadiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kjadiya2004@gmail.com) 
 
@@ -22,7 +24,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KushagraJadiya24/KushagraJadiya24/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KushagraJadiya24/KushagraJadiya24/snake.svg" alt="Snake animation" />
 
 ###
 

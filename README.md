@@ -1,13 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on PathPilot X<br>🌱 I’m currently learning NextJs, PostgreSQL, ML ( Scikit-learn)<br>
-
-
 ###
 <br clear="both">
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+# 💫 About Me:
+🔭 I’m currently working on PathPilot X<br>🌱 I’m currently learning NextJs, PostgreSQL, ML ( Scikit-learn)<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kushstrums/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-jadiya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kushagrajadiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kjadiya2004@gmail.com) 
@@ -20,14 +20,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KushagraJadiya24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KushagraJadiya24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KushagraJadiya24/KushagraJadiya24/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

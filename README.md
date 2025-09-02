@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PathPilotX<br>🌱 I’m currently learning NEXT.js Prisma Postgresql scikit-learn<br>💬 Ask me about web dev, guitars , music<br>⚡ Fun fact I love Electric Guitars
+🔭 I’m currently working on PathPilotX<br>🌱 Currently learning NEXT.js Prisma Postgresql scikit-learn<br>💬 Ask me about web dev, gaming, music<br>⚡ Fun fact I love Electric Guitars
 
 
 ## 🌐 Socials:

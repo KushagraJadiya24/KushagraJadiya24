@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FolioX<br>🌱 Currently learning NEXT.js Prisma Postgresql scikit-learn<br>💬 Ask me about web dev, gaming, music<br>⚡ Fun fact I love Electric Guitars
+🔭 I’m working on Daymark<br>🌱 Currently learning Next.js RAG & AI <br>💬 Ask me about web dev, gaming, music<br>⚡ Fun fact I love Electric Guitars
 
 
 ## 🌐 Socials:

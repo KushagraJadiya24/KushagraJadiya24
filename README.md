@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on Daymark<br>🌱 Currently learning Next.js RAG & AI <br>💬 Ask me about web dev, gaming, music<br>⚡ Fun fact I love Electric Guitars
+🔭 I’m working on FlxuStream<br>🌱 Currently learning Next.js RAG & AI <br>💬 Ask me about web dev, gaming, music<br>⚡ Fun fact I love Electric Guitars
 
 
 ## 🌐 Socials:

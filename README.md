@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kushagra+adiya;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kushagra+Jadiya;Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Back-end & AI Developer
-    </h3>
-</a>
+<h3 align="center">
+  <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+    Back-end & AI Developer
+</h3>
+
 Hi, I'm Kushagra Jadiya, a Computer Science Engineering student at Bharati Vidyapeeth College of Engineering, Pune, with a strong interest in Software Development, Artificial Intelligence, and Backend Engineering.
 
 I have experience working with Java, Python, C++, JavaScript, React.js, Next.js, Node.js, Spring Boot, and SQL. I'm particularly interested in building AI-powered applications using LLMs, RAG pipelines, APIs, and modern backend technologies.
@@ -33,7 +32,7 @@ I've worked on projects involving full-stack development, AI integration, authen
   <a href="https://github.com/KushagraJadiya24">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nnnlik&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KushagraJadiya24&theme=aura"
     />
 </p>
 
@@ -41,12 +40,12 @@ I've worked on projects involving full-stack development, AI integration, authen
   <a href="https://github.com/KushagraJadiya24">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnnlik&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KushagraJadiya24&theme=aura"
     />
   <a href="https://github.com/KushagraJadiya24">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnnlik&theme=aura&utcOffset=8"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KushagraJadiya24&theme=aura&utcOffset=8"
     />
 </p>
 
@@ -54,7 +53,7 @@ I've worked on projects involving full-stack development, AI integration, authen
  <a href="https://github.com/KushagraJadiya24">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnnLik&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushagraJadiya24&theme=aura"
     />
 </p>
 

@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043927&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f8a8a&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kushagra+Jadiya;Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">
-  <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+  <img src="luck.png" width="280"><br>
     Back-end & AI Developer
 </h3>
 
@@ -65,4 +65,4 @@ I've worked on projects involving full-stack development, AI integration, authen
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=043927&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f8a8a&height=120&section=footer"/>

@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kushagra+Jadiya;Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">
-  <img src="luck.png" width="280"><br>
+  <img src="kodwari.png" width="280"><br>
     Back-end & AI Developer
 </h3>
 
